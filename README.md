@@ -1,23 +1,23 @@
-<h1 align="center"><b>Hi , I'm Lucas Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Lucas Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Full Stack Developer** | Apasionado por transformar ideas en aplicaciones funcionales y modernas 🚀
-
----
-
-## 🔹 Sobre mí
-
-Soy un desarrollador Full Stack con experiencia en soluciones web y móviles con **React, Vue, Angular, Nest.js**, y bases de datos **SQL y NoSQL**.  
-Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tecnologías.  
+**Full Stack Developer** | Passionate about turning ideas into modern, functional applications 🚀
 
 ---
 
-## 🛠️ Tecnologías y Conocimientos
+## 🔹 About Me
 
-| Frontend | Backend | Mobile | Bases de datos | Lenguajes |
-|----------|--------|--------|---------------|-----------|
+I am a Full Stack Developer with experience in web and mobile solutions using **React, Vue, Angular, Nest.js**, and **SQL & NoSQL** databases.  
+I enjoy solving complex problems while learning new tools and technologies.
+
+---
+
+## 🛠️ Skills & Technologies
+
+| Frontend | Backend | Mobile | Databases | Languages |
+|----------|--------|--------|-----------|-----------|
 | React, Angular, Vue.js, Tailwind CSS | Node.js, NestJS, Spring Boot | React Native | MySQL, PostgreSQL, MongoDB | JavaScript, TypeScript, Python, Java |
 
-### 🏷️ Badges de Skills
+### 🏷️ Skill Badges
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=fff)
@@ -29,51 +29,51 @@ Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tec
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Work Experience
 
-- **VetScate** – Co-Founder y CTO (2023 - Actualidad)  
-  - Lidero el equipo, coordino proyectos y brindo soporte técnico.  
+- **VetScate** – Co-Founder & CTO (2023 - Present)  
+  - Leading the team, coordinating projects, and providing technical support.  
   - Roles: Project Manager, Scrum Master.
 
-- **Canpar** – Desarrollador FullStack (2024 - 2025)  
-  - Desarrollo y mantenimiento de APIs, gestión de bases de datos y optimización de aplicaciones.  
-  - Tecnologías: Vue, Nest.js, PostgreSQL, Tailwind CSS
+- **Canpar** – Full Stack Developer (2024 - 2025)  
+  - Development and maintenance of APIs, database management, and app optimization.  
+  - Technologies: Vue, Nest.js, PostgreSQL, Tailwind CSS
 
-- **Field Service de Personal** – Analista de Mesa de Ayuda (2023 - 2024)  
-  - Atención al cliente y resolución de problemas técnicos.  
-  - Coordinación de órdenes de servicio programadas.
+- **Field Service de Personal** – Help Desk Analyst (2023 - 2024)  
+  - Customer support and troubleshooting technical issues.  
+  - Coordination of scheduled service orders.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### Profesionales
+### Professional
 
-- **[Gestión de Sesiones / Control de Acceso](https://github.com/LucasRomero07/access_control)** – Backend en NestJS para gestión de accesos temporales.
+- **[Session Management / Access Control](https://github.com/LucasRomero07/access_control)** – NestJS backend for temporary access management.
 
-### Universitarios
+### University Projects
 
-- **Gestión de Recursos Humanos** – Gestión de roles y permisos de empleados.  
-- **Sistema de Pedidos para Bar** – Aplicación para manejar menús, pedidos y stock.  
-- **Gestión de Producción Textil** – Software para industrias textiles.  
-- **Control de Inventario** – Sistema de gestión de inventarios.  
-- **App de Tareas Universitaria** – Organización de tareas y recordatorios.  
-- **Sistema de Ventas** – Plataforma de ventas y facturación.  
-- **Dashboard Analítico** – Visualización interactiva de métricas y reportes.  
+- **Human Resources Management** – Managing employee roles and permissions.  
+- **Bar Ordering System** – App to manage menus, orders, and stock.  
+- **Textile Production Management** – Software for textile industries.  
+- **Inventory Control** – Inventory management system.  
+- **University Task App** – Organizing tasks and reminders.  
+- **Sales System** – Sales and billing platform.  
+- **Analytics Dashboard** – Interactive data visualization and reports.
 
+---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 ![Lucas Romero GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasRomero07&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasromerodev/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas111romero@gmail.com)
- 
 
 ---
 
-✨ Estoy abierto a colaborar en proyectos, trabajos freelance o posiciones full-time. ¡Hablemos y hagamos realidad tus ideas!
+✨ Open to collaborating on projects, freelance work, or full-time positions. Let's connect and bring your ideas to life!
