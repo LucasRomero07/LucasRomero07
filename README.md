@@ -1,33 +1,76 @@
 # 👋 Hola, soy Lucas Romero
 
-Desarrollador Full-Stack y Móvil | Apasionado por la tecnología y la innovación 🚀
+**Full Stack Developer** | Apasionado por transformar ideas en aplicaciones funcionales y modernas 🚀
 
 ---
 
 ## 🔹 Sobre mí
 
-Soy un desarrollador web y móvil con experiencia en **React, React Native, Angular, NestJS y Spring Boot**.  
-Me encanta crear aplicaciones **dinámicas, funcionales y escalables**, mentorizar a otros desarrolladores y aprender nuevas tecnologías constantemente.
+Soy un desarrollador Full Stack con experiencia en soluciones web y móviles con **React, Vue, Angular, Nest.js**, y bases de datos **SQL y NoSQL**.  
+Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tecnologías.  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Conocimientos
 
-| Frontend | Backend | Mobile | Bases de datos | Otros |
-|----------|--------|--------|---------------|-------|
-| React, Angular, Vue | Node.js, NestJS, Spring Boot | React Native | PostgreSQL, MySQL, SQL Server | Git, GitHub, Jira, TailwindCSS |
-| HTML, CSS, JavaScript, TypeScript | Python, Java, C, C++ | - | - | Docker, Postman |
+| Frontend | Backend | Mobile | Bases de datos | Lenguajes |
+|----------|--------|--------|---------------|-----------|
+| React, Angular, Vue.js, Tailwind CSS | Node.js, NestJS, Spring Boot | React Native | MySQL, PostgreSQL, MongoDB | JavaScript, TypeScript, Python, Java |
+
+### 🏷️ Badges de Skills
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+
+---
+
+## 💼 Experiencia Laboral
+
+- **VetScate** – Co-Founder y CTO (2023 - Actualidad)  
+  - Lidero el equipo, coordino proyectos y brindo soporte técnico.  
+  - Roles: Project Manager, Scrum Master.
+
+- **Canpar** – Desarrollador FullStack (2024 - 2025)  
+  - Desarrollo y mantenimiento de APIs, gestión de bases de datos y optimización de aplicaciones.  
+  - Tecnologías: Vue, Nest.js, PostgreSQL, Tailwind CSS
+
+- **Field Service de Personal** – Analista de Mesa de Ayuda (2023 - 2024)  
+  - Atención al cliente y resolución de problemas técnicos.  
+  - Coordinación de órdenes de servicio programadas.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-- [**MyLanding**](https://LucasRomero07.github.io/MyLanding) – Landing page personal hecha con React  
-- [**Gestión de Sesiones**](#) – Backend en NestJS para control de accesos temporales  
-- [**UltraClear Reports**](#) – Sistema de reportes para dispositivos UltraClear  
-- [**App Móvil de Ejemplo**](#) – Aplicación React Native para gestión de usuarios
+### Profesionales
 
-> 🔗 Los enlaces con `#` puedes reemplazarlos con los repositorios correspondientes
+- **[Gestión de Sesiones / Control de Acceso](#)** – Backend en NestJS para gestión de accesos temporales.  
+- **[UltraClear Reports](#)** – Sistema de reportes para dispositivos UltraClear.  
+
+### Universitarios
+
+- **Gestión de Recursos Humanos** – Gestión de roles y permisos de empleados.  
+- **Sistema de Pedidos para Bar** – Aplicación para manejar menús, pedidos y stock.  
+- **Gestión de Producción Textil** – Software para industrias textiles.  
+- **Control de Inventario** – Sistema de gestión de inventarios.  
+- **App de Tareas Universitaria** – Organización de tareas y recordatorios.  
+- **Sistema de Ventas** – Plataforma de ventas y facturación.  
+- **Dashboard Analítico** – Visualización interactiva de métricas y reportes.  
+
+### Ejercicios y Mini Proyectos
+
+- **Contador React** – Mini app de contador con hooks.  
+- **Algoritmos de Ordenamiento** – Bubble Sort, Merge Sort, Quick Sort en JS.  
+- **To-Do List** – Lista de tareas con almacenamiento local.  
+- **API Simulada** – Simulación de API con JSON de usuarios.  
+- **Recursión** – Factorial y Fibonacci usando recursión.  
+
+> Próximamente compartiré más repositorios y contribuciones en GitHub.
 
 ---
 
@@ -39,20 +82,9 @@ Me encanta crear aplicaciones **dinámicas, funcionales y escalables**, mentoriz
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-romero-954a3b291/)  
-- [Email](mailto:tuemail@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/lucasromerodev/)  
+- [Email](mailto:lucas111romero@gmail.com)  
 
 ---
 
-### ✨ Extras
-
-Si quieres, también puedes agregar **badges de tus skills**, como estos:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-
----
-
-¡Con esto tu perfil se verá profesional y atractivo para reclutadores y otros desarrolladores! 🌟
+✨ Estoy abierto a colaborar en proyectos, trabajos freelance o posiciones full-time. ¡Hablemos y hagamos realidad tus ideas!
