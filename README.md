@@ -49,8 +49,7 @@ Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tec
 
 ### Profesionales
 
-- **[Gestión de Sesiones / Control de Acceso](#)** – Backend en NestJS para gestión de accesos temporales.  
-- **[UltraClear Reports](#)** – Sistema de reportes para dispositivos UltraClear.  
+- **[Gestión de Sesiones / Control de Acceso](#)** – Backend en NestJS para gestión de accesos temporales.   
 
 ### Universitarios
 
@@ -62,17 +61,6 @@ Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tec
 - **Sistema de Ventas** – Plataforma de ventas y facturación.  
 - **Dashboard Analítico** – Visualización interactiva de métricas y reportes.  
 
-### Ejercicios y Mini Proyectos
-
-- **Contador React** – Mini app de contador con hooks.  
-- **Algoritmos de Ordenamiento** – Bubble Sort, Merge Sort, Quick Sort en JS.  
-- **To-Do List** – Lista de tareas con almacenamiento local.  
-- **API Simulada** – Simulación de API con JSON de usuarios.  
-- **Recursión** – Factorial y Fibonacci usando recursión.  
-
-> Próximamente compartiré más repositorios y contribuciones en GitHub.
-
----
 
 ## 📊 Estadísticas de GitHub
 
