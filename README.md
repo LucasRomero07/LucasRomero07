@@ -70,8 +70,9 @@ Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tec
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/lucasromerodev/)  
-- [Email](mailto:lucas111romero@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasromerodev/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas111romero@gmail.com)
+ 
 
 ---
 
