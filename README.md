@@ -49,7 +49,7 @@ Disfruto resolver problemas complejos mientras aprendo nuevas herramientas y tec
 
 ### Profesionales
 
-- **[Gestión de Sesiones / Control de Acceso](#)** – Backend en NestJS para gestión de accesos temporales.   
+- **[Gestión de Sesiones / Control de Acceso](https://github.com/LucasRomero07/access_control)** – Backend en NestJS para gestión de accesos temporales.
 
 ### Universitarios
 
